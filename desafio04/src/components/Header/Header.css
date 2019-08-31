@@ -1,0 +1,32 @@
+.header {
+  height: 50px;
+  background: #4a90e2;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.header .logo {
+  margin-left: 4.1%;
+}
+
+.header .profile {
+  margin-right: 7.32%;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: right;
+}
+
+.header .profile h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  line-height: 18px;
+  color: #ffffff;
+  margin-right: 0.5em;
+}

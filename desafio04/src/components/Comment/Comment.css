@@ -1,0 +1,23 @@
+.comment {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  list-style: none;
+}
+
+.comment img {
+  align-self: baseline;
+  border-radius: 16px;
+}
+
+.comment p {
+  background: #eeeeee;
+  border-radius: 15px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  font-size: 13px;
+  line-height: 20px;
+  color: #3e3e3e;
+}

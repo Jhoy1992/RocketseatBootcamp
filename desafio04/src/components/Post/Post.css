@@ -1,0 +1,51 @@
+#post {
+  width: 70%;
+  margin: 1em auto;
+  font-size: 14px;
+  background: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.133916);
+  border-radius: 4px;
+}
+
+#header {
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: left;
+}
+
+#header h1 {
+  font-size: 14px;
+  line-height: 16px;
+  color: #4a4a4a;
+}
+
+#header span {
+  font-size: 11px;
+  line-height: 13px;
+  color: #9a9a9a;
+}
+
+#header img {
+  margin: 20px;
+  border-radius: 16px;
+}
+
+#author-content {
+  margin-left: 20px;
+  line-height: 22px;
+  color: #3e3e3e;
+}
+
+hr {
+  width: 100%;
+  margin-top: 20px;
+  height: 1px;
+  background-color: #eeeeee;
+  border: 0;
+}
+
+#comments {
+  margin: 20px;
+}
