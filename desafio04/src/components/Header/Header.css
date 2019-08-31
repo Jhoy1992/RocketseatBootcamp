@@ -1,5 +1,6 @@
 .header {
-  height: 50px;
+  height: 64px;
+  padding: 0 42px;
   background: #4a90e2;
   align-items: center;
   display: flex;
@@ -8,12 +9,7 @@
   justify-content: space-between;
 }
 
-.header .logo {
-  margin-left: 4.1%;
-}
-
 .header .profile {
-  margin-right: 7.32%;
   align-items: center;
   display: flex;
   flex-direction: row;
